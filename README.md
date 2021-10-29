@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hitanshu5979
-- 👀 I’m interested in JavaScript Development, although I'm yet to dive into this domain
+- 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently studying Computer Science Engineering
-- 💞️ I’m looking to collaborate and moreover, learn through JavaScript projects
+- 💞️ I’m looking to collaborate and moreover, learn through Cloud Computing projects
 - 📫 How to reach me? Drop a mail at : hitanshusamantaray@gmail.com
 
 <!---
