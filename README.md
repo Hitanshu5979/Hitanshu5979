@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hitanshu5979
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently studying Computer Science Engineering
-- 💞️ I’m looking to collaborate and moreover, learn through Cloud Computing projects
+- 💞️ I’m looking to collaborate on "Building a Decentralized Stock Exchange on Blockchain"
 - 📫 How to reach me? Drop a mail at : hitanshusamantaray@gmail.com
 
 <!---
